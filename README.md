@@ -1,4 +1,4 @@
-# Data Science Projects
+# Data 
 This repository serves as a central hub for my various data science projects. It provides a structured and accessible way to showcase my work and allows others to explore, learn from, and potentially contribute to these projects.
 
 ## Project Structure:
